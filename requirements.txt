@@ -21,3 +21,4 @@ scipy
 nbdime
 runipy
 jupyterlab
+ib_insync
